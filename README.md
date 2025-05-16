@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ivana Ruiz
 
-🎯 **Data Analyst | Financal Analyst | Power BI developer  Lifelong Learner**
+🎯 **Data Analyst | Financal Analyst | Power BI developer | Lifelong Learner**
 
 I'm a dedicated Data Analyst with a strong foundation in Finance and Accounting, currently based in Porto, Portugal. I thrive at the intersection of numbers, technology, and business — turning data into actionable insights to drive smarter decisions. With a background in SAP, Power BI, SQL, and Python, I bring technical expertise and financial acumen into every project I take on.
 
