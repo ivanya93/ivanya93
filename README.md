@@ -2,7 +2,7 @@
 
 🎯 **Data Analyst | Financal Analyst | Power BI developer | Lifelong Learner**
 
-I'm a dedicated Data Analyst with a strong foundation in Finance, Business and Accounting, currently based in Porto, Portugal. I thrive at the intersection of numbers, KPIs definition, technology, and business — turning data into actionable insights to drive smarter decisions. With a background in SAP, Power BI, SQL, Python and Project Management tools I bring technical expertise and financial acumen into every project I take on.
+I'm a dedicated Data Analyst with a strong foundation in Finance, Business and Accounting, currently based in Porto, Portugal. I thrive at the intersection of numbers, KPIs definition, technology, and business — turning data into actionable insights to drive smarter decisions. With a background Power BI, SQL, Python and Project Management tools I bring technical expertise and financial acumen into every project I take on.
 
 ---
 
@@ -18,7 +18,8 @@ I'm a dedicated Data Analyst with a strong foundation in Finance, Business and A
 
 ## 🎓 Education & Certifications
 
-- 🎓 Data Analytics Bootcamp – allWomen (2025–ongoing)
+- 🎓 AWS Cloud Solutions Architect Professional Certificate – Coursera (2025-Ongoing)
+- 🎓 Data Analytics Bootcamp – allWomen (2025)
 - 🎓 Double Master’s Degree in Accounting & Finance – EAE Business School & Universidad Rey Juan Carlos (2024)
 - 📜 Certifications from Google, Coursera, DataCamp, Microsoft, NASBA, Code First Girls, and more
 
@@ -26,11 +27,11 @@ I'm a dedicated Data Analyst with a strong foundation in Finance, Business and A
 
 ## 🚀 What I'm Working On
 
-- Building visual, actionable dashboards using Power BI/Tableau and Python
-- Creating projects using EDA and and statistics
-- Automating reporting processes and improving data pipelines in my department
-- Preparing for a transition into the Data & Reporting team within my organization  
-- Learning more about LLMs and AI-powered tools and Data Engineering
+- Building visual, actionable dashboards using Power BI/Tableau and Python.
+- Creating projects using EDA and and statistics.
+- Automating reporting processes, creating KPIs and improving data pipelines in my department.
+- Preparing for a transition into the Data & Reporting team within my organization.
+- Learning more about LLMs and AI-powered tools and Data Engineering :).
 
 ---
 
@@ -47,5 +48,5 @@ I'm a dedicated Data Analyst with a strong foundation in Finance, Business and A
 
 ```yaml
 Languages: SQL, Python, R, DAX  
-Tools: Power BI, SAP, Excel (Power Query), BigQuery, Looker Studio, Salesforce, AWS, Google Cloud, Alteryx
+Tools: Power BI, SAP, Excel (Power Query), BigQuery, Looker Studio, Salesforce, AWS, Google Cloud, Alteryx, Databricks
 Methodologies: ETL, Data Modelling, Data Viz, Data Cleaning, Financial Modeling, Agile/Scrum, Project Management Tools
