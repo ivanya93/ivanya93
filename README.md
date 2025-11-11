@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ivana Ruiz
+# 👋 Hi, I'm Ivana Lovera Ruiz
 
-🎯 ** Data Analyst | Financal Analyst | Business Intelligence **
+🎯 **Data Analyst | Financal Analyst | Business Intelligence**
 
 I'm a dedicated Data Analyst with a strong foundation in Finance, Business and Accounting, currently based in Porto, Portugal. I thrive at the intersection of numbers, KPIs definition, technology, and business — turning data into actionable insights to drive smarter decisions. With a background Power BI, SQL, Python and Project Management tools I bring technical expertise and financial acumen into every project I take on.
 
