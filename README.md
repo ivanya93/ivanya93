@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ivana Ruiz
 
-🎯 **Data Analyst | Financal Analyst | Power BI developer | Lifelong Learner**
+🎯 ** Data Analyst | Financal Analyst | Business Intelligence **
 
 I'm a dedicated Data Analyst with a strong foundation in Finance, Business and Accounting, currently based in Porto, Portugal. I thrive at the intersection of numbers, KPIs definition, technology, and business — turning data into actionable insights to drive smarter decisions. With a background Power BI, SQL, Python and Project Management tools I bring technical expertise and financial acumen into every project I take on.
 
@@ -8,9 +8,9 @@ I'm a dedicated Data Analyst with a strong foundation in Finance, Business and A
 
 ## 💼 Professional Snapshot
 
-- 💻 **Current Role**: R2R Specialist at **Sodexo SBS** (Porto, PT)  
-- 📊 **Focus Areas**: Data Analytics, ETL, Business Analysis, Data Visualization  
-- 📈 **Tools & Technologies**: Power BI, Python, SQL, BI tools, SAP ERP, Salesforce, Looker Studio, Google Cloud Studio
+- 💻 **Current Role**: Data Analyst at **Natixis Groupe BPCE via Axco** (Porto, PT)  
+- 📊 **Focus Areas**: Data Analytics, ETL, Business Intelligence, Data Visualization, KPIs definition
+- 📈 **Tools & Technologies**: Power BI, Python, SQL, BI tools, SAP ERP, CRM Salesforce, Google Cloud Studio, Amazon Web Services
 - 🧠 **Soft Skills**: Analytical thinking, teamwork, communication, time management  
 - 🌍 **Languages**: Spanish (Native), English (Advanced), Portuguese (Intermediate), Italian (Basic)
 
