@@ -18,7 +18,7 @@ I'm a dedicated Data Analyst with a strong foundation in Finance, Business and A
 
 ## 🎓 Education & Certifications
 
-- 🎓 AWS Cloud Solutions Architect Professional Certificate – Coursera (2025-Ongoing)
+- 🎓 Business Analytics and AI - Executive Master, Porto Business School (January 2026 - Ongoing)
 - 🎓 Data Analytics Bootcamp – allWomen (2025)
 - 🎓 Double Master’s Degree in Accounting & Finance – EAE Business School & Universidad Rey Juan Carlos (2024)
 - 📜 Certifications from Google, Coursera, DataCamp, Microsoft, NASBA, Code First Girls, and more
@@ -30,7 +30,6 @@ I'm a dedicated Data Analyst with a strong foundation in Finance, Business and A
 - Building visual, actionable dashboards using Power BI/Tableau and Python.
 - Creating projects using EDA and and statistics.
 - Automating reporting processes, creating KPIs and improving data pipelines in my department.
-- Preparing for a transition into the Data & Reporting team within my organization.
 - Learning more about LLMs and AI-powered tools and Data Engineering :).
 
 ---
